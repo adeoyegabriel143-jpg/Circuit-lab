@@ -1,4 +1,4 @@
-name: github/workflows/build.yml
+name:Build Circuit Lab APK
 on:
   push:
     branches: [main]
