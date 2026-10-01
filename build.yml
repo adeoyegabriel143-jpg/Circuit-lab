@@ -1,4 +1,4 @@
-name:Build Circuit Lab APK
+name: Build Circuit Lab APK
 on:
   push:
     branches: [main]
